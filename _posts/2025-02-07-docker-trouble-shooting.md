@@ -1,10 +1,10 @@
 ---
 layout: post
-title: [Trouble Shooting] Docker compose
-description: Docker compose를 사용해서 MySQL container가 준비 상태가 될 때까지 대기하도록 하는 방법
+title: "[Trouble Shooting] Docker compose"
+description: "Docker compose를 사용해서 MySQL container가 준비 상태가 될 때까지 대기하도록 하는 방법"
 date: 2025-02-07 16:30:00 +0900
 categories: [Trouble Shooting, Docker]
-tags: [Docker, Trouble Shooting]
+tags: [Trouble Shooting, Docker]
 toc: true
 pin: true
 ---
