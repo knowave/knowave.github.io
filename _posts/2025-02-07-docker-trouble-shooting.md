@@ -6,7 +6,6 @@ date: 2025-02-07 16:30:00 +0900
 categories: [Trouble Shooting, Docker]
 tags: [Trouble Shooting, Docker]
 toc: true
-pin: true
 ---
 
 ## 문제
