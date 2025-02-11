@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title: "[AWS] ECS EC2 배포(1) - VPC"
 description: "AWS ECS EC2 배포 방법"
@@ -78,4 +78,4 @@ VPC내에서 서브넷을 나누어 사용할 계획이라면 미리 CIDR 블록
 |               | 10.0.2.0/24 (private subnet)|
 |               | 10.0.3.0/24 (database subnet)|
 
-> 💡 VPC는 큰 범위로 설정하고, 서브넷은 보다 작은 범위로 설정하는 것이 관리하기 편하다. -->
+> 💡 VPC는 큰 범위로 설정하고, 서브넷은 보다 작은 범위로 설정하는 것이 관리하기 편하다.
