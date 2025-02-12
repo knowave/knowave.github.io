@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[AWS] ECS EC2 배포(1) - VPC"
-description: "AWS ECS EC2 배포 방법"
+description: "AWS ECS EC2 배포 방법 - VPC 생성"
 date: 2025-02-11 14:40:00 +0900
 categories: [AWS]
 tags: [AWS, ECS, EC2]
