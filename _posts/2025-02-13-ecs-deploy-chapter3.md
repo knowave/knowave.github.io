@@ -2,7 +2,7 @@
 layout: post
 title: "[AWS] ECS EC2 배포(3) - 인터넷 게이트웨이"
 description: "AWS ECS EC2 배포 방법 - 인터넷 게이트웨이"
-date: 2025-02-13 13:12:00 +0900
+date: 2025-02-13 14:30:00 +0900
 categories: [AWS]
 tags: [AWS, ECS, EC2]
 toc: true
