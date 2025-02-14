@@ -181,9 +181,9 @@ vpc는 ecs에서 설정했던 vpc로 해주고, 서브넷은 프론트와 통신
 
 이때, 리스너에서 타겟 그룹을 설정해줘야한다.
 
-![타겟 그룹 설정1](/assets/img/post/target-group-1.png)
+![타겟 그룹 설정1](/assets/img/post/create-target-group-1.png)
 
-![타겟 그룹 설정2](/assets/img/post/target-group-2.png)
+![타겟 그룹 설정2](/assets/img/post/create-target-group-2.png)
 
 위와 같이 설정해준 뒤 다시 로드밸런서 생성으로 돌아와 생성한 타켓 그룹을 선택해준다.
 
