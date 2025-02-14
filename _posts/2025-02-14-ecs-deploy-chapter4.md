@@ -2,7 +2,7 @@
 layout: post
 title: "[AWS] ECS EC2 배포(4) - ECR, ECS 배포"
 description: "AWS ECS EC2 배포 방법 - ECR, ECS 배포"
-date: 2025-02-14 13:40:00 +0900
+date: 2025-02-14 13:50:00 +0900
 categories: [AWS]
 tags: [AWS, ECS, EC2]
 toc: true
