@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[TIL] TypeScript Utility Set - Map Type"
-description: "TypeScript Utility Set - Map Type"
+title: "[TIL] TypeScript Utility, Set, Map Type"
+description: "TypeScript Utility, Set, Map Type"
 date: 2025-02-18 09:25:00 +0900
 categories: [TIL, TypeScript]
 tags: [TIL, TypeScript]
