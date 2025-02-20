@@ -2,7 +2,7 @@
 layout: post
 title: "[AWS] ECS EC2 인스턴스 유형 변경"
 description: "ECS EC2 인스턴스 유형 변경하는 방법"
-date: 2025-02-20 09:50:00 +0900
+date: 2025-02-20 10:00:00 +0900
 categories: [AWS, TIL]
 tags: [AWS]
 ---
