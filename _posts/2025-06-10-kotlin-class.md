@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Kotlin] Class"
+title: "[Kotlin] Class와 Instance"
 description: "Kotlin 문법 중 Class에 대해서"
 data: 2025-06-10 10:30:00 +0900
 categories: [TIL, Kotlin]
