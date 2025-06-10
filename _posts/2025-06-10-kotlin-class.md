@@ -22,13 +22,13 @@ tags: [Kotlin, Syntax]
 
 먼저, class 정의를 할 때 `class` 키워드를 사용한다.
 
-```kt
+```kotlin
 class Shape
 ```
 
 `class`의 속성은 `class` 선언할 때와 `class body` 안에서 사용할 수 있다.
 
-```kt
+```kotlin
 class Rectangle(val height: Double, val length: Double) {
     val perimeter = (height + length) * 2
 }
@@ -36,7 +36,7 @@ class Rectangle(val height: Double, val length: Double) {
 
 `class` 선언 시 선언한 생성자 (constructor)는 `this` 키워드 없이 사용이 가능하다.
 
-```kt
+```kotlin
 class Rectangle(val height: Double, val length: Double) {
     val perimeter = (height + length) * 2
 }
@@ -52,7 +52,7 @@ fun main() {
 `class` 간 상속을 할 때 `:` 를 사용하여 상속을 진행한다. `kotlin`의 `class`는 기본적으로 `final` 이기 때문에  
 상속이 가능한 `class`를 만들기 위해서는 `open` 키워드를 붙여야 한다.
 
-```kt
+```kotlin
 class Shape
 
 class Rectangle(val height: Double, val length: Double) : Shape {
